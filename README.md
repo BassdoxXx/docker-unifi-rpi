@@ -24,7 +24,7 @@ A Raspberry Pi running with [Docker and Docker Compose installed](https://docs.d
 ## On rpi:
 
 1. `mkdir unifi && cd unifi`
-2. `curl -O https://raw.githubusercontent.com/ryansch/docker-unifi-rpi/master/docker-compose.yml`
+2. `curl -O https://raw.githubusercontent.com/BassdoxXx/docker-unifi-rpi/master/docker-compose.yml`
 3. (Optional) Edit `docker-compose.yml` to point to a different tag if you don't want `latest`.
 4. `sudo docker-compose up -d`
 
